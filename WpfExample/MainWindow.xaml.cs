@@ -23,6 +23,7 @@ namespace WpfExample
         public MainWindow()
         {
             InitializeComponent();
+            /* Hallo */
         }
     }
 }
